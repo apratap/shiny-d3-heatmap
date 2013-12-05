@@ -1,2 +1,2 @@
-d3-heatmap
+shiny-d3-heatmap
 ==========
